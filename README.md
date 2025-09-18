@@ -1,4 +1,4 @@
-**Portfolio de Dashboards**
+**Portfolio de dashboards**
 
 Dashboards interactivos desarrollados con **Tableau** y **Power BI** para análisis de datos y business intelligence.
 
@@ -27,7 +27,7 @@ Dashboards interactivos desarrollados con **Tableau** y **Power BI** para análi
 
 ![Preview](screenshots_gifs/pbi_ventas_moda_españa.gif)
 
-**Estructura del Repositorio**
+**Estructura del repositorio**
 
 tableau/
 
