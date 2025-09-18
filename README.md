@@ -8,11 +8,11 @@ Dashboards interactivos desarrollados con **Tableau** y **Power BI** para análi
 - **Power BI Desktop** - Business intelligence e informes interactivos
 - **Python/SQL** - Análisis y procesamiento de datos
 
-**Proyectos**
+*Proyectos*
 
 - Dashboards de Tableau
 
-[Operaciones EasyLoan 2023]
+[*Operaciones EasyLoan 2023*]
 - **Dashboard:** [Ver Versión Interactiva](https://public.tableau.com/views/PRACTICA_TABLEAU_FERNANDO_APOLO/Dashboard1?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Descripción:** Dashboard de operaciones de la empresa EasyLoan del 17 de Julio a 31 de Diciembre de 2023.
 - **Tecnologías:** Tableau, Python/SQL
@@ -21,7 +21,7 @@ Dashboards interactivos desarrollados con **Tableau** y **Power BI** para análi
 
 - Dashboards de Power BI
 
-[KPIs de Ventas Moda 2025]
+[*KPIs de Ventas Moda 2025*]
 - **Descripción:** Dashboard de ventas de moda en España de Enero a Junio de 2025.
 - **Tecnologías:** Power BI, DAX, Power Query
 
