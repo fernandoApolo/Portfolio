@@ -1,12 +1,7 @@
 **Portfolio de dashboards**
 
-Dashboards interactivos desarrollados con **Tableau** y **Power BI** para análisis de datos y business intelligence.
+Dashboards interactivos desarrollados para análisis de datos y business intelligence.
 
-**Tecnologías**
-
-- **Tableau Desktop** - Visualización avanzada de datos
-- **Power BI Desktop** - Business intelligence e informes interactivos
-- **Python/SQL** - Análisis y procesamiento de datos
 
 *Proyectos*
 
