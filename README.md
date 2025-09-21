@@ -5,6 +5,20 @@ Dashboards interactivos desarrollados para análisis de datos y business intelli
 
 *Proyectos*
 
+- Dashboards de Dash/Python
+
+[*Ventas Moda Analytics 2025*]
+- **Descripción:** Dashboards interactivos de análisis de ventas de moda con visualizaciones avanzadas y filtros dinámicos por región, canal y producto.
+Funcionalidades: Evolución temporal de ventas por canal, análisis de distribución de tallas por producto, análisis ROI por campaña, comparativa de precios por región, diagramas Sankey de flujo de ventas.
+- **Tecnologías:** Dash, Plotly, Python, Pandas
+![Preview](screenshots_gifs/dash_ventas_moda_mes_canal.gif)
+
+![Preview](screenshots_gifs/dash_ventas_moda_precio_medio.gif)
+
+![Preview](screenshots_gifs/dash_ventas_moda_roi.gif)
+
+![Preview](screenshots_gifs/dash_ventas_moda_producto_talla.gif)
+
 - Dashboards de Tableau
 
 [*Operaciones EasyLoan 2023*]
@@ -24,6 +38,13 @@ Dashboards interactivos desarrollados para análisis de datos y business intelli
 
 **Estructura del repositorio**
 
+
+dash/
+
+├── ventas_moda_dash.ipynb
+
+└── datos/
+
 tableau/
 
 ├── tableau_dashboard_easy_loans.twb
@@ -39,6 +60,17 @@ power_bi/
 └── datos/
 
 screenshots_gifs/
+
+├── dash_ventas_moda_campaña_canal.gif
+
+├── dash_ventas_moda_mes_canal.gif
+
+├── dash_ventas_moda_precio_medio.gif
+
+├── dash_ventas_moda_producto_talla.gif
+
+├── dash_ventas_moda_roi.gif
+
 
 ├── tableau_easyloans.png
 
