@@ -1,0 +1,501 @@
+﻿fecha;producto;talla;canal;region;campaña;unidades_vendidas;precio_unitario;ventas_euros
+2025-06;PANTALÓN CHINO HOMBRE;XS;Pop-up Store;Bilbao;Black Friday;278;39,28;10919,84
+2025-06;CAMISA LINO VERANO;XS;Outlet;Zaragoza;Rebajas Enero;80;18,59;1487,2
+2025-05;CAMISA BÁSICA ALGODÓN HOMBRE;XL;Tienda Física;Las Palmas;Navidad;275;41,06;11291,5
+2025-01;VESTIDO FORMAL MUJER;XXL;WhatsApp Business;Málaga;Cyber Monday;209;60,24;12590,16
+2025-01;PANTALÓN VAQUERO CLÁSICO;L;Tienda Online;Málaga;Vuelta al Cole;668;47,29;31589,72
+2025-04;CAMISA LINO VERANO;XS;WhatsApp Business;Barcelona;Colección Otoño;350;59,56;20846
+2025-03;SUDADERA CON CAPUCHA;XXL;Tienda Online;Madrid;Lanzamiento Colección;283;76,04;21519,32
+2025-02;PANTALÓN CHINO HOMBRE;L;Marketplace;Murcia;Lanzamiento Colección;423;38,92;16463,16
+2025-06;CHAQUETA DENIM;XXL;Pop-up Store;Barcelona;Liquidación Temporada;700;29,87;20909
+2025-02;CAZADORA CUERO;L;Marketplace;Las Palmas;Black Friday;751;125,24;94055,24
+2025-01;JERSEY LANA MERINO;XS;Marketplace;Zaragoza;Cyber Monday;117;39,29;4596,93
+2025-06;FALDA MIDI;S;Pop-up Store;Murcia;Navidad;708;40,92;28971,36
+2025-02;CAMISA LINO VERANO;XL;Marketplace;Palma de Mallorca;Navidad;647;35,73;23117,31
+2025-02;LEGGINGS DEPORTIVOS;L;Tienda Online;Madrid;San Valentín;206;52,87;10891,22
+2025-04;PANTALÓN VAQUERO CLÁSICO;L;WhatsApp Business;Palma de Mallorca;Día de la Madre;591;49,35;29165,85
+2025-01;PANTALÓN CHINO HOMBRE;XXL;Outlet;Bilbao;Lanzamiento Colección;398;28,26;11247,48
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;XXL;Pop-up Store;Bilbao;Colección Otoño;232;41,74;9683,68
+2025-06;BLAZER MUJER;XXL;Outlet;Palma de Mallorca;Black Friday;206;24,47;5040,82
+2025-05;CAMISA BÁSICA ALGODÓN HOMBRE;XL;Marketplace;Murcia;Rebajas Enero;164;58,3;9561,2
+2025-03;JERSEY LANA MERINO;XS;Tienda Física;Palma de Mallorca;San Valentín;137;74,7;10233,9
+2025-05;VESTIDO CASUAL MUJER;S;Pop-up Store;Murcia;Colección Otoño;219;65,76;14401,44
+2025-04;SUDADERA CON CAPUCHA;XL;Pop-up Store;Sevilla;Weekend Special;369;53,73;19826,37
+2025-03;CAZADORA CUERO;XL;WhatsApp Business;Barcelona;Black Friday;280;82,18;23010,4
+2025-05;JERSEY LANA MERINO;XL;Tienda Física;Madrid;San Valentín;774;61,2;47368,8
+2025-01;FALDA MIDI;XS;Outlet;Sevilla;Cyber Monday;735;31,34;23034,9
+2025-06;SHORTS VERANO;S;WhatsApp Business;Zaragoza;Black Friday;146;24,5;3577
+2025-04;ABRIGO INVIERNO;L;Pop-up Store;Madrid;Lanzamiento Colección;719;227,45;163536,55
+2025-04;FALDA MIDI;XS;Tienda Física;Sevilla;Black Friday;599;41,77;25020,23
+2025-03;CAZADORA CUERO;S;Tienda Online;Murcia;Colección Otoño;150;93,02;13953
+2025-01;PANTALÓN VAQUERO CLÁSICO;S;Tienda Física;Zaragoza;Día de la Madre;542;45,83;24839,86
+2025-01;VESTIDO FORMAL MUJER;L;Tienda Online;Zaragoza;Cyber Monday;515;64,05;32985,75
+2025-06;CAMISA LINO VERANO;XXL;Pop-up Store;Murcia;Primavera-Verano;244;40,32;9838,08
+2025-05;CAMISA LINO VERANO;XS;Pop-up Store;Málaga;Rebajas Enero;101;48,39;4887,39
+2025-05;VESTIDO FORMAL MUJER;XS;Outlet;Barcelona;Primavera-Verano;120;64,39;7726,8
+2025-02;POLO MANGA LARGA;XS;Outlet;Sevilla;Liquidación Temporada;658;9,74;6408,92
+2025-06;LEGGINGS DEPORTIVOS;M;Marketplace;Sevilla;Lanzamiento Colección;783;31,3;24507,9
+2025-02;BLAZER MUJER;L;Marketplace;Barcelona;Rebajas Enero;519;46,27;24014,13
+2025-01;PANTALÓN VAQUERO CLÁSICO;XL;Tienda Física;Las Palmas;Cyber Monday;185;92,91;17188,35
+2025-02;CAMISETA BÁSICA PACK 3;M;Tienda Física;Murcia;Colección Otoño;770;23,09;17779,3
+2025-06;LEGGINGS DEPORTIVOS;XS;Pop-up Store;Las Palmas;Cyber Monday;729;27,08;19741,32
+2025-03;PANTALÓN CHINO HOMBRE;XS;Pop-up Store;Las Palmas;Primavera-Verano;328;47,57;15602,96
+2025-03;SUDADERA CON CAPUCHA;XXL;Pop-up Store;Bilbao;Colección Otoño;550;47,39;26064,5
+2025-01;PANTALÓN VAQUERO CLÁSICO;XXL;WhatsApp Business;Bilbao;Rebajas Enero;53;49,41;2618,73
+2025-03;VESTIDO FORMAL MUJER;XXL;WhatsApp Business;Las Palmas;Weekend Special;487;78,28;38122,36
+2025-06;VESTIDO CASUAL MUJER;XL;Tienda Online;Málaga;Liquidación Temporada;615;49,92;30700,8
+2025-03;CAMISETA BÁSICA PACK 3;XS;Marketplace;Sevilla;Lanzamiento Colección;305;25,09;7652,45
+2025-05;ABRIGO INVIERNO;XL;Pop-up Store;Valencia;Black Friday;216;261,24;56427,84
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;S;Pop-up Store;Málaga;Navidad;735;63,26;46496,1
+2025-03;VESTIDO FORMAL MUJER;XXL;Tienda Online;Zaragoza;Rebajas Enero;531;59,62;31658,22
+2025-04;CAMISETA BÁSICA PACK 3;M;Tienda Física;Sevilla;Rebajas Enero;725;18,21;13202,25
+2025-01;CHAQUETA DENIM;M;Pop-up Store;Las Palmas;Navidad;745;69,56;51822,2
+2025-01;PANTALÓN CHINO HOMBRE;M;Tienda Física;Palma de Mallorca;Cyber Monday;89;40,43;3598,27
+2025-06;FALDA MIDI;L;Outlet;Las Palmas;San Valentín;444;41,46;18408,24
+2025-01;ABRIGO INVIERNO;XS;Outlet;Las Palmas;Lanzamiento Colección;786;179,26;140898,36
+2025-02;CAMISETA BÁSICA PACK 3;L;Tienda Online;Málaga;Liquidación Temporada;371;27,21;10094,91
+2025-03;LEGGINGS DEPORTIVOS;M;Pop-up Store;Zaragoza;Vuelta al Cole;462;55,46;25622,52
+2025-02;ABRIGO INVIERNO;XXL;WhatsApp Business;Valencia;Liquidación Temporada;632;132,42;83689,44
+2025-01;BLAZER MUJER;M;Tienda Física;Zaragoza;Liquidación Temporada;671;52,37;35140,27
+2025-04;SUDADERA CON CAPUCHA;XL;WhatsApp Business;Valencia;Lanzamiento Colección;136;47,1;6405,6
+2025-05;FALDA MIDI;XS;Tienda Física;Bilbao;Black Friday;253;24,88;6294,64
+2025-04;PANTALÓN VAQUERO CLÁSICO;L;WhatsApp Business;Palma de Mallorca;Black Friday;785;73,22;57477,7
+2025-02;VESTIDO CASUAL MUJER;XXL;Pop-up Store;Madrid;San Valentín;485;61;29585
+2025-06;LEGGINGS DEPORTIVOS;L;Tienda Online;Las Palmas;Black Friday;174;44,11;7675,14
+2025-06;LEGGINGS DEPORTIVOS;XL;Outlet;Málaga;Día de la Madre;677;47,29;32015,33
+2025-04;CAMISA LINO VERANO;L;Tienda Física;Murcia;Día de la Madre;315;58,81;18525,15
+2025-03;LEGGINGS DEPORTIVOS;L;Pop-up Store;Sevilla;Cyber Monday;500;22,85;11425
+2025-03;FALDA MIDI;M;Outlet;Barcelona;Primavera-Verano;204;23,32;4757,28
+2025-06;SUDADERA CON CAPUCHA;XS;WhatsApp Business;Zaragoza;Vuelta al Cole;605;50,76;30709,8
+2025-04;POLO MANGA LARGA;XL;Pop-up Store;Madrid;Liquidación Temporada;439;26,71;11725,69
+2025-03;POLO MANGA LARGA;L;Outlet;Las Palmas;Liquidación Temporada;275;16,21;4457,75
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;L;Marketplace;Zaragoza;Weekend Special;219;55,22;12093,18
+2025-05;CAMISA LINO VERANO;XS;WhatsApp Business;Palma de Mallorca;Liquidación Temporada;728;26,83;19532,24
+2025-02;CAZADORA CUERO;S;Tienda Online;Bilbao;Navidad;385;113,97;43878,45
+2025-04;CHAQUETA DENIM;L;Marketplace;Barcelona;Día de la Madre;69;49,13;3389,97
+2025-03;JERSEY LANA MERINO;XXL;Tienda Online;Madrid;Rebajas Enero;303;39;11817
+2025-02;JERSEY LANA MERINO;S;WhatsApp Business;Barcelona;Liquidación Temporada;273;52,87;14433,51
+2025-03;VESTIDO FORMAL MUJER;XL;Outlet;Barcelona;Primavera-Verano;368;29,44;10833,92
+2025-03;POLO MANGA LARGA;L;Pop-up Store;Sevilla;San Valentín;656;29,55;19384,8
+2025-01;BLAZER MUJER;XXL;Outlet;Barcelona;Liquidación Temporada;92;25,62;2357,04
+2025-03;PANTALÓN VAQUERO CLÁSICO;XL;Pop-up Store;Málaga;Rebajas Enero;480;73,9;35472
+2025-03;CAZADORA CUERO;XXL;Tienda Física;Zaragoza;Primavera-Verano;584;232,9;136013,6
+2025-05;SHORTS VERANO;L;WhatsApp Business;Palma de Mallorca;Cyber Monday;380;66,73;25357,4
+2025-01;CHAQUETA DENIM;L;Tienda Física;Murcia;Liquidación Temporada;674;51,66;34818,84
+2025-04;FALDA MIDI;S;WhatsApp Business;Sevilla;Vuelta al Cole;314;39,83;12506,62
+2025-06;CHAQUETA DENIM;XL;Tienda Online;Las Palmas;Black Friday;137;31,77;4352,49
+2025-05;JERSEY LANA MERINO;XXL;WhatsApp Business;Murcia;Día de la Madre;67;33,16;2221,72
+2025-06;JERSEY LANA MERINO;M;Pop-up Store;Palma de Mallorca;Vuelta al Cole;534;58,55;31265,7
+2025-06;CAMISA LINO VERANO;M;Marketplace;Murcia;Cyber Monday;363;30,22;10969,86
+2025-02;FALDA MIDI;XS;Pop-up Store;Las Palmas;Weekend Special;239;30,99;7406,61
+2025-03;LEGGINGS DEPORTIVOS;XL;Marketplace;Barcelona;Black Friday;353;27,23;9612,19
+2025-01;CAMISA LINO VERANO;S;Marketplace;Madrid;Rebajas Enero;616;34,65;21344,4
+2025-06;SHORTS VERANO;XS;Tienda Online;Palma de Mallorca;Cyber Monday;530;43,24;22917,2
+2025-01;CHAQUETA DENIM;L;Tienda Online;Barcelona;Navidad;553;24,01;13277,53
+2025-01;VESTIDO CASUAL MUJER;S;Outlet;Bilbao;San Valentín;304;37,25;11324
+2025-05;JERSEY LANA MERINO;XL;WhatsApp Business;Murcia;Día de la Madre;354;84,89;30051,06
+2025-03;CAMISA FORMAL MUJER;XL;Pop-up Store;Barcelona;Black Friday;690;34,51;23811,9
+2025-02;JERSEY LANA MERINO;S;Outlet;Barcelona;Primavera-Verano;52;38,72;2013,44
+2025-04;BLAZER MUJER;XS;Tienda Física;Bilbao;Weekend Special;339;54,64;18522,96
+2025-06;JERSEY LANA MERINO;M;Pop-up Store;Palma de Mallorca;Lanzamiento Colección;252;53,86;13572,72
+2025-06;VESTIDO CASUAL MUJER;M;Tienda Física;Barcelona;Rebajas Enero;219;105,38;23078,22
+2025-05;BLAZER MUJER;L;Tienda Online;Murcia;Weekend Special;361;57,42;20728,62
+2025-05;CAMISA LINO VERANO;L;WhatsApp Business;Barcelona;Liquidación Temporada;90;63,42;5707,8
+2025-05;CHAQUETA DENIM;XS;Tienda Online;Sevilla;Lanzamiento Colección;639;46,99;30026,61
+2025-06;CHAQUETA DENIM;XL;Tienda Online;Valencia;Día de la Madre;581;54,76;31815,56
+2025-02;ABRIGO INVIERNO;XXL;WhatsApp Business;Barcelona;Día de la Madre;406;144,07;58492,42
+2025-01;VESTIDO FORMAL MUJER;M;WhatsApp Business;Murcia;Cyber Monday;728;122,87;89449,36
+2025-05;CAMISA FORMAL MUJER;L;Tienda Online;Málaga;Cyber Monday;381;30,44;11597,64
+2025-05;CAMISA BÁSICA ALGODÓN HOMBRE;XXL;Outlet;Murcia;Navidad;105;21,85;2294,25
+2025-04;CAZADORA CUERO;XS;Tienda Física;Bilbao;Colección Otoño;184;234,76;43195,84
+2025-06;SHORTS VERANO;XS;Tienda Online;Palma de Mallorca;Black Friday;776;28,06;21774,56
+2025-05;ABRIGO INVIERNO;XS;Tienda Física;Barcelona;Día de la Madre;170;176,95;30081,5
+2025-06;BLAZER MUJER;XL;Pop-up Store;Bilbao;Navidad;544;65,48;35621,12
+2025-05;VESTIDO CASUAL MUJER;L;Tienda Física;Palma de Mallorca;Colección Otoño;189;104,24;19701,36
+2025-04;FALDA MIDI;XL;Marketplace;Madrid;Cyber Monday;793;31,74;25169,82
+2025-06;SHORTS VERANO;S;WhatsApp Business;Las Palmas;Día de la Madre;403;38,55;15535,65
+2025-04;CAZADORA CUERO;M;Tienda Física;Sevilla;Liquidación Temporada;442;126,3;55824,6
+2025-01;FALDA MIDI;XXL;WhatsApp Business;Zaragoza;Navidad;729;61,43;44782,47
+2025-02;SHORTS VERANO;XS;Tienda Física;Las Palmas;Liquidación Temporada;389;68,24;26545,36
+2025-04;PANTALÓN CHINO HOMBRE;XL;WhatsApp Business;Madrid;Weekend Special;197;59,33;11688,01
+2025-02;PANTALÓN VAQUERO CLÁSICO;L;Marketplace;Málaga;Liquidación Temporada;759;48,79;37031,61
+2025-03;CAMISA LINO VERANO;L;Marketplace;Murcia;Colección Otoño;86;43,41;3733,26
+2025-06;BLAZER MUJER;S;Pop-up Store;Barcelona;Navidad;150;60,38;9057
+2025-01;CAZADORA CUERO;S;Pop-up Store;Bilbao;Rebajas Enero;97;123,15;11945,55
+2025-03;CAMISETA BÁSICA PACK 3;L;Tienda Física;Sevilla;Colección Otoño;471;27,86;13122,06
+2025-02;VESTIDO FORMAL MUJER;XS;Outlet;Zaragoza;Liquidación Temporada;749;46,38;34738,62
+2025-02;JERSEY LANA MERINO;L;Pop-up Store;Bilbao;Día de la Madre;311;72;22392
+2025-04;BLAZER MUJER;XXL;Outlet;Valencia;San Valentín;502;53,64;26927,28
+2025-03;ABRIGO INVIERNO;XXL;Marketplace;Murcia;Cyber Monday;253;233,73;59133,69
+2025-01;JERSEY LANA MERINO;L;Outlet;Málaga;Liquidación Temporada;352;55,75;19624
+2025-06;POLO MANGA LARGA;M;Tienda Online;Palma de Mallorca;Lanzamiento Colección;100;34,03;3403
+2025-03;JERSEY LANA MERINO;XL;Marketplace;Sevilla;Lanzamiento Colección;244;58,87;14364,28
+2025-06;VESTIDO CASUAL MUJER;XXL;Tienda Online;Madrid;Cyber Monday;501;42,09;21087,09
+2025-02;PANTALÓN VAQUERO CLÁSICO;M;Marketplace;Zaragoza;Primavera-Verano;255;38,21;9743,55
+2025-03;LEGGINGS DEPORTIVOS;XL;Marketplace;Valencia;Cyber Monday;543;60,13;32650,59
+2025-03;PANTALÓN CHINO HOMBRE;L;Tienda Online;Valencia;Black Friday;742;78,42;58187,64
+2025-05;CAMISETA BÁSICA PACK 3;XS;WhatsApp Business;Madrid;Cyber Monday;599;17,01;10188,99
+2025-06;CHAQUETA DENIM;XL;WhatsApp Business;Málaga;San Valentín;741;28,68;21251,88
+2025-05;FALDA MIDI;XL;Tienda Física;Barcelona;Lanzamiento Colección;525;62,88;33012
+2025-04;PANTALÓN CHINO HOMBRE;S;Tienda Online;Madrid;Cyber Monday;554;40,29;22320,66
+2025-05;VESTIDO CASUAL MUJER;L;WhatsApp Business;Málaga;Lanzamiento Colección;763;113,81;86837,03
+2025-06;VESTIDO CASUAL MUJER;L;Pop-up Store;Barcelona;Día de la Madre;680;79,21;53862,8
+2025-01;CAMISETA BÁSICA PACK 3;S;WhatsApp Business;Murcia;Black Friday;421;17,62;7418,02
+2025-05;CAMISETA BÁSICA PACK 3;XS;WhatsApp Business;Bilbao;Black Friday;175;36,18;6331,5
+2025-01;SUDADERA CON CAPUCHA;XXL;Pop-up Store;Palma de Mallorca;Rebajas Enero;101;69,52;7021,52
+2025-02;SUDADERA CON CAPUCHA;XS;Outlet;Sevilla;Liquidación Temporada;271;48,31;13092,01
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;M;Tienda Física;Valencia;Colección Otoño;306;52,5;16065
+2025-01;VESTIDO CASUAL MUJER;XS;Marketplace;Sevilla;Liquidación Temporada;381;36,17;13780,77
+2025-02;ABRIGO INVIERNO;XL;Tienda Online;Barcelona;Día de la Madre;509;212,54;108182,86
+2025-01;CAZADORA CUERO;XL;Tienda Física;Palma de Mallorca;Rebajas Enero;794;228,79;181659,26
+2025-05;BLAZER MUJER;L;Pop-up Store;Madrid;Rebajas Enero;540;61,45;33183
+2025-01;SHORTS VERANO;XXL;WhatsApp Business;Barcelona;San Valentín;379;46,04;17449,16
+2025-03;CAMISA LINO VERANO;XXL;Marketplace;Zaragoza;Liquidación Temporada;593;33,14;19652,02
+2025-04;PANTALÓN CHINO HOMBRE;XXL;Tienda Online;Las Palmas;Weekend Special;270;60,93;16451,1
+2025-04;FALDA MIDI;L;WhatsApp Business;Zaragoza;Weekend Special;147;34,29;5040,63
+2025-03;CAMISETA BÁSICA PACK 3;S;Pop-up Store;Murcia;San Valentín;143;29,06;4155,58
+2025-01;CAMISETA BÁSICA PACK 3;S;Outlet;Madrid;Liquidación Temporada;625;19,26;12037,5
+2025-04;CAMISETA BÁSICA PACK 3;XXL;WhatsApp Business;Madrid;Cyber Monday;664;19,56;12987,84
+2025-05;SUDADERA CON CAPUCHA;S;Pop-up Store;Murcia;Black Friday;160;49,81;7969,6
+2025-01;CHAQUETA DENIM;XL;Tienda Física;Zaragoza;Colección Otoño;686;52,13;35761,18
+2025-01;CHAQUETA DENIM;XS;Tienda Física;Bilbao;Weekend Special;366;64,11;23464,26
+2025-02;VESTIDO CASUAL MUJER;XL;Pop-up Store;Zaragoza;San Valentín;195;108,65;21186,75
+2025-01;LEGGINGS DEPORTIVOS;S;WhatsApp Business;Zaragoza;Día de la Madre;399;26,82;10701,18
+2025-03;PANTALÓN VAQUERO CLÁSICO;XS;Tienda Física;Valencia;Liquidación Temporada;100;68,78;6878
+2025-06;ABRIGO INVIERNO;L;Outlet;Murcia;Navidad;329;81,94;26958,26
+2025-03;ABRIGO INVIERNO;XS;Marketplace;Palma de Mallorca;Día de la Madre;589;165,28;97349,92
+2025-04;CAMISA FORMAL MUJER;XS;Tienda Física;Bilbao;Black Friday;190;53,23;10113,7
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;L;Pop-up Store;Zaragoza;Primavera-Verano;182;41,85;7616,7
+2025-05;CAMISA LINO VERANO;XXL;Marketplace;Barcelona;Navidad;93;38,03;3536,79
+2025-01;FALDA MIDI;XL;WhatsApp Business;Palma de Mallorca;Navidad;776;49,82;38660,32
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;M;Tienda Física;Palma de Mallorca;Día de la Madre;756;56,7;42865,2
+2025-01;JERSEY LANA MERINO;L;Outlet;Zaragoza;Colección Otoño;130;34,27;4455,1
+2025-03;JERSEY LANA MERINO;M;Tienda Física;Barcelona;Colección Otoño;698;36,34;25365,32
+2025-03;CAMISETA BÁSICA PACK 3;XXL;Pop-up Store;Valencia;Black Friday;155;16,84;2610,2
+2025-05;VESTIDO CASUAL MUJER;XXL;Tienda Online;Valencia;Lanzamiento Colección;555;77,61;43073,55
+2025-05;CAZADORA CUERO;XXL;Outlet;Palma de Mallorca;Vuelta al Cole;692;92,01;63670,92
+2025-04;CAZADORA CUERO;XXL;Marketplace;Bilbao;Liquidación Temporada;107;119,89;12828,23
+2025-04;CAZADORA CUERO;XS;Tienda Online;Málaga;Cyber Monday;128;198,64;25425,92
+2025-01;LEGGINGS DEPORTIVOS;L;WhatsApp Business;Palma de Mallorca;Colección Otoño;92;45,12;4151,04
+2025-06;SUDADERA CON CAPUCHA;M;Outlet;Murcia;Colección Otoño;204;57,05;11638,2
+2025-03;PANTALÓN VAQUERO CLÁSICO;XL;Pop-up Store;Valencia;Rebajas Enero;303;81,18;24597,54
+2025-05;LEGGINGS DEPORTIVOS;XL;Tienda Física;Málaga;Vuelta al Cole;339;41,53;14078,67
+2025-06;CAMISA FORMAL MUJER;XXL;Pop-up Store;Málaga;San Valentín;387;29,81;11536,47
+2025-03;CHAQUETA DENIM;XXL;Pop-up Store;Palma de Mallorca;Primavera-Verano;391;24,86;9720,26
+2025-03;BLAZER MUJER;XXL;Pop-up Store;Zaragoza;Primavera-Verano;659;50,84;33503,56
+2025-05;POLO MANGA LARGA;XXL;Marketplace;Valencia;Lanzamiento Colección;769;29,18;22439,42
+2025-06;LEGGINGS DEPORTIVOS;XS;Pop-up Store;Zaragoza;Colección Otoño;420;20,11;8446,2
+2025-02;FALDA MIDI;L;Tienda Física;Sevilla;Primavera-Verano;208;25,5;5304
+2025-01;LEGGINGS DEPORTIVOS;XL;Pop-up Store;Las Palmas;Rebajas Enero;727;38,8;28207,6
+2025-02;POLO MANGA LARGA;S;Tienda Física;Valencia;Weekend Special;689;29,1;20049,9
+2025-04;CAMISA FORMAL MUJER;L;Marketplace;Sevilla;Día de la Madre;675;33,66;22720,5
+2025-04;JERSEY LANA MERINO;XL;Tienda Física;Bilbao;Día de la Madre;248;54,72;13570,56
+2025-04;CAZADORA CUERO;M;WhatsApp Business;Las Palmas;Colección Otoño;478;259,75;124160,5
+2025-05;VESTIDO CASUAL MUJER;M;Tienda Online;Murcia;Vuelta al Cole;617;117,17;72293,89
+2025-05;PANTALÓN CHINO HOMBRE;M;Tienda Online;Valencia;Cyber Monday;510;81,8;41718
+2025-04;PANTALÓN VAQUERO CLÁSICO;S;WhatsApp Business;Málaga;Rebajas Enero;474;37,94;17983,56
+2025-02;POLO MANGA LARGA;XS;Marketplace;Sevilla;Rebajas Enero;376;31,4;11806,4
+2025-06;FALDA MIDI;S;Tienda Física;Madrid;Cyber Monday;533;50,84;27097,72
+2025-06;SHORTS VERANO;L;Outlet;Madrid;San Valentín;69;25,15;1735,35
+2025-05;LEGGINGS DEPORTIVOS;L;Tienda Online;Bilbao;Black Friday;358;25,41;9096,78
+2025-06;CAZADORA CUERO;XS;Tienda Online;Murcia;Liquidación Temporada;598;82,92;49586,16
+2025-02;VESTIDO CASUAL MUJER;M;WhatsApp Business;Madrid;Liquidación Temporada;411;58,26;23944,86
+2025-06;PANTALÓN VAQUERO CLÁSICO;XL;Marketplace;Barcelona;Colección Otoño;607;59,68;36225,76
+2025-05;CAMISA BÁSICA ALGODÓN HOMBRE;L;WhatsApp Business;Madrid;Lanzamiento Colección;446;61,08;27241,68
+2025-01;CAMISETA BÁSICA PACK 3;XS;Marketplace;Sevilla;Weekend Special;722;25,56;18454,32
+2025-06;FALDA MIDI;S;Tienda Online;Málaga;Colección Otoño;396;58,7;23245,2
+2025-06;CAZADORA CUERO;XXL;WhatsApp Business;Valencia;Primavera-Verano;114;219,63;25037,82
+2025-01;BLAZER MUJER;S;Tienda Online;Sevilla;Rebajas Enero;373;66,77;24905,21
+2025-05;SHORTS VERANO;M;Tienda Online;Sevilla;Cyber Monday;415;60,25;25003,75
+2025-06;FALDA MIDI;M;Tienda Online;Málaga;Navidad;459;59,42;27273,78
+2025-04;FALDA MIDI;S;WhatsApp Business;Murcia;Vuelta al Cole;581;30,55;17749,55
+2025-04;PANTALÓN VAQUERO CLÁSICO;L;Outlet;Valencia;Colección Otoño;350;32,44;11354
+2025-06;BLAZER MUJER;M;WhatsApp Business;Palma de Mallorca;Weekend Special;486;28,01;13612,86
+2025-04;CAMISA FORMAL MUJER;XXL;Marketplace;Palma de Mallorca;Navidad;331;47;15557
+2025-01;PANTALÓN VAQUERO CLÁSICO;XXL;Pop-up Store;Zaragoza;Vuelta al Cole;575;81,9;47092,5
+2025-01;VESTIDO CASUAL MUJER;XL;Pop-up Store;Murcia;Rebajas Enero;179;47,91;8575,89
+2025-03;CAMISETA BÁSICA PACK 3;L;Outlet;Madrid;Liquidación Temporada;207;22,57;4671,99
+2025-03;CAZADORA CUERO;XS;Outlet;Valencia;Colección Otoño;425;107,78;45806,5
+2025-02;PANTALÓN CHINO HOMBRE;XS;Pop-up Store;Valencia;Día de la Madre;580;56,98;33048,4
+2025-03;CHAQUETA DENIM;XXL;WhatsApp Business;Sevilla;Liquidación Temporada;342;60,15;20571,3
+2025-02;PANTALÓN CHINO HOMBRE;S;Tienda Online;Murcia;Primavera-Verano;780;57,03;44483,4
+2025-06;FALDA MIDI;XXL;Marketplace;Barcelona;Colección Otoño;605;30,38;18379,9
+2025-02;VESTIDO FORMAL MUJER;M;Outlet;Sevilla;San Valentín;255;66,91;17062,05
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;M;Outlet;Palma de Mallorca;Vuelta al Cole;528;40,59;21431,52
+2025-05;PANTALÓN VAQUERO CLÁSICO;XS;Marketplace;Zaragoza;Weekend Special;786;54,65;42954,9
+2025-04;PANTALÓN VAQUERO CLÁSICO;S;Marketplace;Barcelona;Día de la Madre;527;64,04;33749,08
+2025-05;VESTIDO FORMAL MUJER;S;WhatsApp Business;Las Palmas;Rebajas Enero;177;78,26;13852,02
+2025-02;FALDA MIDI;XXL;Tienda Física;Málaga;Colección Otoño;340;59,19;20124,6
+2025-06;CAMISA LINO VERANO;M;Tienda Física;Bilbao;Liquidación Temporada;596;29,55;17611,8
+2025-05;VESTIDO CASUAL MUJER;S;Pop-up Store;Palma de Mallorca;Weekend Special;669;72,69;48629,61
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;XS;Tienda Online;Palma de Mallorca;Cyber Monday;716;33,67;24107,72
+2025-05;CAMISA BÁSICA ALGODÓN HOMBRE;L;Pop-up Store;Las Palmas;Cyber Monday;707;63,05;44576,35
+2025-06;POLO MANGA LARGA;M;WhatsApp Business;Barcelona;Weekend Special;111;17,86;1982,46
+2025-04;SUDADERA CON CAPUCHA;M;Outlet;Valencia;Vuelta al Cole;785;37,94;29782,9
+2025-03;POLO MANGA LARGA;S;Marketplace;Las Palmas;Colección Otoño;158;19,17;3028,86
+2025-03;CAZADORA CUERO;S;Tienda Física;Barcelona;Rebajas Enero;347;258,25;89612,75
+2025-04;JERSEY LANA MERINO;S;Marketplace;Palma de Mallorca;Weekend Special;370;35,02;12957,4
+2025-05;CAZADORA CUERO;L;Marketplace;Murcia;Rebajas Enero;142;216,75;30778,5
+2025-02;SUDADERA CON CAPUCHA;XL;Marketplace;Madrid;Rebajas Enero;338;53,68;18143,84
+2025-06;SHORTS VERANO;M;Outlet;Madrid;San Valentín;491;17,43;8558,13
+2025-03;POLO MANGA LARGA;M;Tienda Online;Zaragoza;Rebajas Enero;633;25,88;16382,04
+2025-03;PANTALÓN VAQUERO CLÁSICO;L;Outlet;Murcia;Colección Otoño;336;58,26;19575,36
+2025-05;PANTALÓN CHINO HOMBRE;S;Tienda Online;Zaragoza;Vuelta al Cole;397;64,8;25725,6
+2025-02;SUDADERA CON CAPUCHA;XL;Outlet;Zaragoza;Colección Otoño;91;20,39;1855,49
+2025-03;SHORTS VERANO;XL;WhatsApp Business;Valencia;Liquidación Temporada;577;29,32;16917,64
+2025-03;VESTIDO FORMAL MUJER;L;Outlet;Bilbao;Liquidación Temporada;394;56,57;22288,58
+2025-04;BLAZER MUJER;L;Tienda Online;Málaga;Vuelta al Cole;739;25,27;18674,53
+2025-03;CAMISA BÁSICA ALGODÓN HOMBRE;XL;WhatsApp Business;Bilbao;Lanzamiento Colección;642;50,24;32254,08
+2025-05;SHORTS VERANO;S;Outlet;Palma de Mallorca;Navidad;201;39,61;7961,61
+2025-05;PANTALÓN CHINO HOMBRE;S;Tienda Online;Murcia;Vuelta al Cole;478;44,15;21103,7
+2025-04;LEGGINGS DEPORTIVOS;XL;WhatsApp Business;Madrid;Weekend Special;191;46,49;8879,59
+2025-06;SHORTS VERANO;XL;WhatsApp Business;Málaga;Primavera-Verano;520;63,54;33040,8
+2025-03;CHAQUETA DENIM;XL;WhatsApp Business;Sevilla;Black Friday;335;45,27;15165,45
+2025-03;BLAZER MUJER;XXL;Tienda Física;Murcia;Vuelta al Cole;541;40,69;22013,29
+2025-06;CHAQUETA DENIM;M;Tienda Online;Palma de Mallorca;Lanzamiento Colección;606;40,86;24761,16
+2025-03;VESTIDO CASUAL MUJER;M;Tienda Online;Bilbao;Weekend Special;130;67,32;8751,6
+2025-03;SHORTS VERANO;S;Tienda Física;Las Palmas;Cyber Monday;625;50,83;31768,75
+2025-05;JERSEY LANA MERINO;S;Tienda Online;Las Palmas;Black Friday;703;41,09;28886,27
+2025-03;SHORTS VERANO;XS;Pop-up Store;Valencia;Rebajas Enero;613;64,18;39342,34
+2025-06;SHORTS VERANO;L;Pop-up Store;Sevilla;Cyber Monday;378;31,25;11812,5
+2025-01;JERSEY LANA MERINO;XL;Pop-up Store;Madrid;Primavera-Verano;477;73,43;35026,11
+2025-01;POLO MANGA LARGA;L;Tienda Física;Bilbao;Rebajas Enero;59;21,4;1262,6
+2025-03;BLAZER MUJER;L;Pop-up Store;Las Palmas;Colección Otoño;555;59,75;33161,25
+2025-05;CAZADORA CUERO;M;Tienda Física;Barcelona;Vuelta al Cole;216;210,35;45435,6
+2025-06;VESTIDO FORMAL MUJER;XS;Pop-up Store;Málaga;Cyber Monday;631;88,19;55647,89
+2025-05;POLO MANGA LARGA;L;Outlet;Málaga;San Valentín;460;18,08;8316,8
+2025-02;SHORTS VERANO;M;Tienda Física;Madrid;Cyber Monday;442;33,39;14758,38
+2025-03;BLAZER MUJER;XL;Pop-up Store;Palma de Mallorca;Rebajas Enero;317;54,72;17346,24
+2025-01;PANTALÓN CHINO HOMBRE;L;Marketplace;Valencia;Navidad;752;58,85;44255,2
+2025-06;BLAZER MUJER;XXL;Tienda Online;Bilbao;Vuelta al Cole;679;32,46;22040,34
+2025-04;VESTIDO CASUAL MUJER;L;Pop-up Store;Palma de Mallorca;Vuelta al Cole;475;104,09;49442,75
+2025-05;SUDADERA CON CAPUCHA;S;Pop-up Store;Palma de Mallorca;San Valentín;588;56,8;33398,4
+2025-01;PANTALÓN CHINO HOMBRE;XS;Outlet;Las Palmas;Black Friday;636;40,83;25967,88
+2025-05;CAZADORA CUERO;XS;Pop-up Store;Sevilla;Weekend Special;647;176,11;113943,17
+2025-04;CAMISA FORMAL MUJER;L;Tienda Física;Las Palmas;Navidad;517;48,12;24878,04
+2025-06;BLAZER MUJER;XXL;Tienda Online;Zaragoza;Cyber Monday;53;57,74;3060,22
+2025-01;ABRIGO INVIERNO;M;Pop-up Store;Barcelona;Colección Otoño;111;218,29;24230,19
+2025-04;CAMISA FORMAL MUJER;M;WhatsApp Business;Valencia;Primavera-Verano;706;66;46596
+2025-04;CAMISETA BÁSICA PACK 3;L;WhatsApp Business;Zaragoza;Navidad;132;29,58;3904,56
+2025-05;VESTIDO CASUAL MUJER;XXL;Marketplace;Barcelona;Primavera-Verano;600;61,64;36984
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;XS;Marketplace;Murcia;Lanzamiento Colección;786;42,25;33208,5
+2025-02;JERSEY LANA MERINO;L;Marketplace;Valencia;Cyber Monday;243;75,24;18283,32
+2025-01;CAMISA FORMAL MUJER;XXL;WhatsApp Business;Palma de Mallorca;Rebajas Enero;296;30,59;9054,64
+2025-01;CAZADORA CUERO;XL;Pop-up Store;Madrid;Black Friday;95;140,5;13347,5
+2025-02;CAMISA FORMAL MUJER;S;Outlet;Bilbao;Black Friday;799;34,38;27469,62
+2025-06;FALDA MIDI;S;Marketplace;Valencia;Lanzamiento Colección;583;27,33;15933,39
+2025-01;CAMISA LINO VERANO;XL;Pop-up Store;Valencia;Lanzamiento Colección;745;42,05;31327,25
+2025-03;POLO MANGA LARGA;XL;Marketplace;Zaragoza;Navidad;202;18,23;3682,46
+2025-05;SHORTS VERANO;S;Tienda Física;Bilbao;Weekend Special;197;65,29;12862,13
+2025-05;ABRIGO INVIERNO;L;Outlet;Las Palmas;Primavera-Verano;447;77,7;34731,9
+2025-06;PANTALÓN VAQUERO CLÁSICO;L;Marketplace;Barcelona;Colección Otoño;791;68,94;54531,54
+2025-04;CAMISA FORMAL MUJER;XS;Tienda Física;Palma de Mallorca;Weekend Special;737;47,16;34756,92
+2025-03;BLAZER MUJER;XS;Tienda Física;Sevilla;Weekend Special;170;60,26;10244,2
+2025-02;SUDADERA CON CAPUCHA;L;Tienda Física;Las Palmas;Vuelta al Cole;339;51,28;17383,92
+2025-03;BLAZER MUJER;M;Marketplace;Las Palmas;Día de la Madre;527;23,64;12458,28
+2025-04;FALDA MIDI;S;Marketplace;Málaga;Navidad;96;41,97;4029,12
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;M;Outlet;Palma de Mallorca;Liquidación Temporada;787;26,29;20690,23
+2025-03;JERSEY LANA MERINO;L;Outlet;Sevilla;Día de la Madre;613;48,64;29816,32
+2025-03;SHORTS VERANO;XXL;Pop-up Store;Murcia;Día de la Madre;222;54,96;12201,12
+2025-02;CAMISA LINO VERANO;L;Tienda Física;Las Palmas;Lanzamiento Colección;110;49,07;5397,7
+2025-01;CAMISA FORMAL MUJER;XS;WhatsApp Business;Valencia;Lanzamiento Colección;286;25,78;7373,08
+2025-02;LEGGINGS DEPORTIVOS;L;Marketplace;Madrid;Liquidación Temporada;703;48,63;34186,89
+2025-04;SHORTS VERANO;XS;Tienda Online;Las Palmas;Colección Otoño;471;20,65;9726,15
+2025-03;CAMISA LINO VERANO;M;Tienda Online;Las Palmas;Weekend Special;740;44,08;32619,2
+2025-02;PANTALÓN CHINO HOMBRE;XS;Outlet;Valencia;Black Friday;246;44,94;11055,24
+2025-03;CHAQUETA DENIM;L;Tienda Online;Málaga;Navidad;520;50,62;26322,4
+2025-02;BLAZER MUJER;XXL;Tienda Online;Madrid;San Valentín;465;39,17;18214,05
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;XXL;Tienda Física;Barcelona;Día de la Madre;494;49,08;24245,52
+2025-01;LEGGINGS DEPORTIVOS;XS;Tienda Física;Sevilla;Weekend Special;630;39,81;25080,3
+2025-01;CHAQUETA DENIM;XL;Outlet;Madrid;Primavera-Verano;372;13,33;4958,76
+2025-02;POLO MANGA LARGA;XS;Marketplace;Valencia;Liquidación Temporada;296;24,62;7287,52
+2025-06;CAMISA LINO VERANO;M;WhatsApp Business;Valencia;Weekend Special;791;29,52;23350,32
+2025-03;CAMISA FORMAL MUJER;XS;WhatsApp Business;Sevilla;San Valentín;398;50,33;20031,34
+2025-05;POLO MANGA LARGA;M;Tienda Online;Bilbao;Día de la Madre;552;19,67;10857,84
+2025-04;ABRIGO INVIERNO;S;Pop-up Store;Palma de Mallorca;Lanzamiento Colección;439;96,81;42499,59
+2025-02;PANTALÓN VAQUERO CLÁSICO;XS;Marketplace;Valencia;Navidad;778;67,6;52592,8
+2025-04;FALDA MIDI;M;Tienda Online;Barcelona;Rebajas Enero;365;43,34;15819,1
+2025-01;VESTIDO CASUAL MUJER;XS;Tienda Física;Zaragoza;Día de la Madre;620;82,83;51354,6
+2025-01;PANTALÓN VAQUERO CLÁSICO;M;Outlet;Barcelona;Liquidación Temporada;662;60,39;39978,18
+2025-01;BLAZER MUJER;L;WhatsApp Business;Barcelona;Weekend Special;622;71,5;44473
+2025-05;LEGGINGS DEPORTIVOS;S;Pop-up Store;Zaragoza;Primavera-Verano;192;31,9;6124,8
+2025-02;PANTALÓN VAQUERO CLÁSICO;S;WhatsApp Business;Bilbao;Navidad;356;56,42;20085,52
+2025-03;JERSEY LANA MERINO;XXL;Pop-up Store;Murcia;Liquidación Temporada;681;37,55;25571,55
+2025-03;CAMISA BÁSICA ALGODÓN HOMBRE;L;Marketplace;Palma de Mallorca;Navidad;387;38,05;14725,35
+2025-06;VESTIDO CASUAL MUJER;M;Marketplace;Palma de Mallorca;Weekend Special;255;67,96;17329,8
+2025-04;FALDA MIDI;M;Pop-up Store;Murcia;Liquidación Temporada;298;34,7;10340,6
+2025-04;CAMISETA BÁSICA PACK 3;XS;Outlet;Sevilla;Liquidación Temporada;608;14,01;8518,08
+2025-01;CAZADORA CUERO;XXL;Tienda Física;Murcia;Cyber Monday;759;98,14;74488,26
+2025-04;SHORTS VERANO;S;Pop-up Store;Bilbao;Black Friday;308;55,21;17004,68
+2025-04;PANTALÓN VAQUERO CLÁSICO;L;Outlet;Murcia;Liquidación Temporada;460;50,53;23243,8
+2025-06;ABRIGO INVIERNO;XL;Tienda Online;Málaga;Weekend Special;599;188,45;112881,55
+2025-01;JERSEY LANA MERINO;XXL;Pop-up Store;Málaga;Primavera-Verano;712;64,5;45924
+2025-06;POLO MANGA LARGA;M;WhatsApp Business;Barcelona;Rebajas Enero;150;20,22;3033
+2025-05;CAMISA LINO VERANO;XL;Pop-up Store;Palma de Mallorca;Black Friday;506;39,67;20073,02
+2025-06;LEGGINGS DEPORTIVOS;S;Marketplace;Madrid;Día de la Madre;157;32,76;5143,32
+2025-01;PANTALÓN CHINO HOMBRE;XXL;Tienda Física;Málaga;Cyber Monday;401;56,52;22664,52
+2025-04;CAMISETA BÁSICA PACK 3;L;Tienda Online;Murcia;Weekend Special;763;23,01;17556,63
+2025-01;PANTALÓN CHINO HOMBRE;XS;Marketplace;Barcelona;Lanzamiento Colección;218;79,6;17352,8
+2025-05;VESTIDO FORMAL MUJER;XL;Tienda Física;Málaga;Colección Otoño;486;110,42;53664,12
+2025-04;VESTIDO FORMAL MUJER;S;Pop-up Store;Zaragoza;Navidad;79;106,58;8419,82
+2025-04;ABRIGO INVIERNO;L;Tienda Online;Sevilla;Black Friday;335;214,31;71793,85
+2025-01;PANTALÓN CHINO HOMBRE;XL;Tienda Física;Málaga;Vuelta al Cole;251;57,31;14384,81
+2025-04;LEGGINGS DEPORTIVOS;XXL;Marketplace;Palma de Mallorca;Navidad;675;34,14;23044,5
+2025-03;CAZADORA CUERO;XL;Tienda Física;Bilbao;Liquidación Temporada;654;87,5;57225
+2025-01;JERSEY LANA MERINO;M;Tienda Online;Valencia;Vuelta al Cole;760;37,35;28386
+2025-05;VESTIDO CASUAL MUJER;XL;WhatsApp Business;Zaragoza;Primavera-Verano;548;94,35;51703,8
+2025-06;VESTIDO FORMAL MUJER;XL;Tienda Física;Murcia;Cyber Monday;193;58,73;11334,89
+2025-05;CAMISA FORMAL MUJER;M;Tienda Online;Murcia;Primavera-Verano;249;60,28;15009,72
+2025-05;SHORTS VERANO;L;Pop-up Store;Murcia;Navidad;777;61,85;48057,45
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;S;Marketplace;Madrid;Cyber Monday;280;40,31;11286,8
+2025-04;SHORTS VERANO;XL;Outlet;Barcelona;Liquidación Temporada;166;23,66;3927,56
+2025-03;CAMISA LINO VERANO;XS;Pop-up Store;Murcia;Colección Otoño;273;59,45;16229,85
+2025-06;JERSEY LANA MERINO;M;Tienda Online;Murcia;Cyber Monday;406;74,22;30133,32
+2025-01;JERSEY LANA MERINO;S;Pop-up Store;Palma de Mallorca;Weekend Special;409;79,06;32335,54
+2025-04;VESTIDO FORMAL MUJER;XL;Tienda Física;Sevilla;Black Friday;110;86,16;9477,6
+2025-05;CAMISA LINO VERANO;S;Marketplace;Bilbao;Cyber Monday;636;33,4;21242,4
+2025-06;PANTALÓN CHINO HOMBRE;S;WhatsApp Business;Madrid;Cyber Monday;721;45,05;32481,05
+2025-02;VESTIDO CASUAL MUJER;XXL;Marketplace;Sevilla;Lanzamiento Colección;452;71,85;32476,2
+2025-03;ABRIGO INVIERNO;L;WhatsApp Business;Barcelona;Lanzamiento Colección;145;155,9;22605,5
+2025-06;CAMISETA BÁSICA PACK 3;L;WhatsApp Business;Málaga;Liquidación Temporada;52;34,63;1800,76
+2025-01;CAZADORA CUERO;XXL;Pop-up Store;Málaga;San Valentín;597;161,43;96373,71
+2025-02;SHORTS VERANO;M;Marketplace;Bilbao;Vuelta al Cole;610;44,33;27041,3
+2025-04;FALDA MIDI;XXL;Tienda Online;Madrid;San Valentín;691;58,96;40741,36
+2025-01;VESTIDO FORMAL MUJER;L;WhatsApp Business;Madrid;Navidad;257;129,45;33268,65
+2025-06;BLAZER MUJER;S;Marketplace;Barcelona;Lanzamiento Colección;419;28,85;12088,15
+2025-06;VESTIDO FORMAL MUJER;XS;WhatsApp Business;Bilbao;Weekend Special;766;99;75834
+2025-01;PANTALÓN CHINO HOMBRE;XS;Tienda Física;Murcia;San Valentín;185;67,92;12565,2
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;XS;Pop-up Store;Málaga;San Valentín;482;52,53;25319,46
+2025-02;POLO MANGA LARGA;XS;Pop-up Store;Barcelona;San Valentín;370;21,45;7936,5
+2025-04;VESTIDO CASUAL MUJER;XXL;Pop-up Store;Valencia;San Valentín;593;86,94;51555,42
+2025-02;CAZADORA CUERO;M;Pop-up Store;Sevilla;Lanzamiento Colección;205;241,87;49583,35
+2025-04;SUDADERA CON CAPUCHA;XS;Tienda Online;Valencia;San Valentín;653;69,11;45128,83
+2025-04;FALDA MIDI;S;Tienda Física;Bilbao;Lanzamiento Colección;136;33,06;4496,16
+2025-06;BLAZER MUJER;XXL;Tienda Online;Bilbao;Black Friday;580;48,78;28292,4
+2025-04;BLAZER MUJER;XXL;Tienda Online;Sevilla;Día de la Madre;445;25,64;11409,8
+2025-05;PANTALÓN VAQUERO CLÁSICO;XL;Tienda Online;Málaga;Vuelta al Cole;185;58,18;10763,3
+2025-04;CAMISETA BÁSICA PACK 3;XL;Pop-up Store;Valencia;Día de la Madre;124;14,01;1737,24
+2025-03;SUDADERA CON CAPUCHA;XS;Tienda Online;Zaragoza;Colección Otoño;343;64,58;22150,94
+2025-04;ABRIGO INVIERNO;XXL;WhatsApp Business;Barcelona;Lanzamiento Colección;599;159,5;95540,5
+2025-01;BLAZER MUJER;XS;Outlet;Sevilla;Primavera-Verano;599;26,06;15609,94
+2025-06;PANTALÓN VAQUERO CLÁSICO;M;Pop-up Store;Zaragoza;Weekend Special;294;35,02;10295,88
+2025-04;PANTALÓN CHINO HOMBRE;L;Outlet;Palma de Mallorca;Rebajas Enero;366;52,41;19182,06
+2025-02;PANTALÓN CHINO HOMBRE;XS;Pop-up Store;Valencia;Weekend Special;61;48;2928
+2025-05;LEGGINGS DEPORTIVOS;XXL;Marketplace;Valencia;Vuelta al Cole;179;53,89;9646,31
+2025-06;PANTALÓN CHINO HOMBRE;XS;Marketplace;Zaragoza;Cyber Monday;586;35,48;20791,28
+2025-05;PANTALÓN VAQUERO CLÁSICO;L;WhatsApp Business;Las Palmas;Vuelta al Cole;106;63,31;6710,86
+2025-03;VESTIDO FORMAL MUJER;M;Tienda Online;Palma de Mallorca;Lanzamiento Colección;790;50,41;39823,9
+2025-01;CAMISA FORMAL MUJER;XS;Tienda Física;Madrid;Día de la Madre;422;37,5;15825
+2025-01;CAMISA LINO VERANO;XXL;Pop-up Store;Zaragoza;Black Friday;379;37,84;14341,36
+2025-03;CHAQUETA DENIM;XS;Outlet;Málaga;San Valentín;564;32,77;18482,28
+2025-02;LEGGINGS DEPORTIVOS;XS;WhatsApp Business;Barcelona;Día de la Madre;339;56,45;19136,55
+2025-01;CAMISA LINO VERANO;L;Tienda Online;Málaga;Black Friday;348;46,62;16223,76
+2025-05;JERSEY LANA MERINO;L;Marketplace;Palma de Mallorca;Día de la Madre;250;63,58;15895
+2025-02;VESTIDO CASUAL MUJER;XS;WhatsApp Business;Madrid;Black Friday;604;72,31;43675,24
+2025-01;FALDA MIDI;XS;Pop-up Store;Zaragoza;Weekend Special;794;33,29;26432,26
+2025-02;ABRIGO INVIERNO;L;Tienda Online;Valencia;Weekend Special;336;99,85;33549,6
+2025-05;ABRIGO INVIERNO;XXL;Marketplace;Murcia;Weekend Special;136;160,95;21889,2
+2025-06;POLO MANGA LARGA;XS;Outlet;Palma de Mallorca;Rebajas Enero;495;17,69;8756,55
+2025-03;CHAQUETA DENIM;M;WhatsApp Business;Málaga;Vuelta al Cole;513;30,74;15769,62
+2025-02;VESTIDO CASUAL MUJER;XL;Tienda Online;Valencia;San Valentín;218;74,55;16251,9
+2025-01;CAMISA LINO VERANO;M;Tienda Física;Murcia;Cyber Monday;524;32,89;17234,36
+2025-02;BLAZER MUJER;XXL;Pop-up Store;Palma de Mallorca;Rebajas Enero;270;59,67;16110,9
+2025-01;JERSEY LANA MERINO;M;WhatsApp Business;Las Palmas;Rebajas Enero;743;49,41;36711,63
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;L;WhatsApp Business;Las Palmas;Weekend Special;613;34,73;21289,49
+2025-02;PANTALÓN CHINO HOMBRE;XS;Tienda Online;Sevilla;Primavera-Verano;252;79,28;19978,56
+2025-06;PANTALÓN VAQUERO CLÁSICO;XL;Outlet;Bilbao;San Valentín;72;57,46;4137,12
+2025-06;CAZADORA CUERO;S;Tienda Online;Málaga;San Valentín;93;229,39;21333,27
+2025-05;ABRIGO INVIERNO;XXL;WhatsApp Business;Murcia;Rebajas Enero;441;183,31;80839,71
+2025-02;VESTIDO FORMAL MUJER;M;Marketplace;Murcia;Primavera-Verano;85;81,26;6907,1
+2025-06;BLAZER MUJER;L;WhatsApp Business;Las Palmas;Día de la Madre;112;23,82;2667,84
+2025-04;SUDADERA CON CAPUCHA;XXL;Outlet;Sevilla;Lanzamiento Colección;606;58,82;35644,92
+2025-06;CAMISETA BÁSICA PACK 3;L;Outlet;Murcia;Vuelta al Cole;629;16,97;10674,13
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;M;Outlet;Sevilla;Rebajas Enero;337;21,83;7356,71
+2025-05;CAMISETA BÁSICA PACK 3;XL;Tienda Física;Valencia;San Valentín;303;26,82;8126,46
+2025-06;CAMISA FORMAL MUJER;S;Outlet;Zaragoza;Vuelta al Cole;227;23,02;5225,54
+2025-06;CAMISETA BÁSICA PACK 3;XL;Tienda Online;Málaga;Liquidación Temporada;627;18,64;11687,28
+2025-04;CAMISA LINO VERANO;M;Tienda Física;Murcia;Rebajas Enero;142;27,8;3947,6
+2025-01;LEGGINGS DEPORTIVOS;L;Tienda Online;Málaga;Liquidación Temporada;256;59,36;15196,16
+2025-02;FALDA MIDI;XS;Tienda Online;Valencia;Liquidación Temporada;771;67,67;52173,57
+2025-05;CAMISETA BÁSICA PACK 3;XS;Marketplace;Zaragoza;Liquidación Temporada;153;19,17;2933,01
+2025-02;ABRIGO INVIERNO;XXL;WhatsApp Business;Málaga;Primavera-Verano;774;254,16;196719,84
+2025-05;CAMISETA BÁSICA PACK 3;S;Pop-up Store;Palma de Mallorca;Primavera-Verano;437;21,93;9583,41
+2025-02;VESTIDO FORMAL MUJER;XXL;Tienda Online;Palma de Mallorca;Navidad;631;43,03;27151,93
+2025-05;JERSEY LANA MERINO;XXL;Outlet;Barcelona;Día de la Madre;194;29,68;5757,92
+2025-03;FALDA MIDI;S;Pop-up Store;Barcelona;Weekend Special;736;55,97;41193,92
+2025-04;CAMISA BÁSICA ALGODÓN HOMBRE;M;Tienda Física;Sevilla;Weekend Special;119;41,26;4909,94
+2025-06;CAMISA BÁSICA ALGODÓN HOMBRE;XS;WhatsApp Business;Murcia;Weekend Special;479;68,67;32892,93
+2025-04;POLO MANGA LARGA;M;Outlet;Zaragoza;San Valentín;540;22,02;11890,8
+2025-06;JERSEY LANA MERINO;S;WhatsApp Business;Barcelona;Rebajas Enero;351;29,62;10396,62
+2025-01;PANTALÓN VAQUERO CLÁSICO;M;Tienda Física;Zaragoza;Primavera-Verano;799;42,58;34021,42
+2025-01;FALDA MIDI;XL;Outlet;Murcia;Weekend Special;81;30,37;2459,97
+2025-05;ABRIGO INVIERNO;S;Tienda Online;Barcelona;Vuelta al Cole;260;243,42;63289,2
+2025-05;CAMISA LINO VERANO;M;Pop-up Store;Bilbao;Cyber Monday;293;28,22;8268,46
+2025-05;SHORTS VERANO;S;Tienda Online;Málaga;Rebajas Enero;487;25,17;12257,79
+2025-06;SHORTS VERANO;S;Tienda Online;Madrid;Black Friday;224;54,39;12183,36
+2025-04;PANTALÓN CHINO HOMBRE;M;WhatsApp Business;Murcia;Día de la Madre;726;50,98;37011,48
+2025-04;VESTIDO FORMAL MUJER;M;WhatsApp Business;Málaga;Primavera-Verano;506;43,04;21778,24
+2025-03;JERSEY LANA MERINO;M;Outlet;Madrid;Primavera-Verano;763;41,17;31412,71
+2025-03;CAMISA LINO VERANO;L;Outlet;Sevilla;Colección Otoño;112;44,78;5015,36
+2025-04;CAMISA LINO VERANO;XXL;WhatsApp Business;Palma de Mallorca;Black Friday;537;36,18;19428,66
+2025-06;CAMISA FORMAL MUJER;XL;Outlet;Las Palmas;Liquidación Temporada;743;40,48;30076,64
+2025-04;VESTIDO FORMAL MUJER;S;Tienda Física;Sevilla;Primavera-Verano;93;81,08;7540,44
+2025-04;SUDADERA CON CAPUCHA;XXL;Tienda Física;Palma de Mallorca;Cyber Monday;377;86,73;32697,21
+2025-01;PANTALÓN VAQUERO CLÁSICO;L;Outlet;Zaragoza;Colección Otoño;383;57,8;22137,4
+2025-01;LEGGINGS DEPORTIVOS;L;Tienda Online;Zaragoza;Primavera-Verano;201;48,73;9794,73
+2025-01;PANTALÓN CHINO HOMBRE;XL;Tienda Online;Bilbao;Colección Otoño;402;81,32;32690,64
+2025-06;SHORTS VERANO;XL;Outlet;Murcia;Rebajas Enero;226;21,23;4797,98
+2025-05;POLO MANGA LARGA;XS;WhatsApp Business;Málaga;Weekend Special;293;15,91;4661,63
+2025-03;CAMISETA BÁSICA PACK 3;XS;Marketplace;Bilbao;Cyber Monday;337;29,81;10045,97
+2025-06;PANTALÓN CHINO HOMBRE;S;Tienda Física;Bilbao;Weekend Special;503;74,79;37619,37
+2025-06;ABRIGO INVIERNO;XL;Pop-up Store;Barcelona;Black Friday;502;123,45;61971,9
+2025-06;SHORTS VERANO;XL;Marketplace;Madrid;Colección Otoño;212;21,44;4545,28
+2025-04;VESTIDO CASUAL MUJER;XL;Outlet;Madrid;Primavera-Verano;247;70,43;17396,21
+2025-01;JERSEY LANA MERINO;XS;WhatsApp Business;Madrid;Vuelta al Cole;771;39,87;30739,77
+2025-04;LEGGINGS DEPORTIVOS;L;Pop-up Store;Barcelona;Lanzamiento Colección;81;32,02;2593,62
+2025-04;VESTIDO FORMAL MUJER;L;Outlet;Las Palmas;Vuelta al Cole;402;41,34;16618,68
+2025-06;PANTALÓN VAQUERO CLÁSICO;M;Tienda Online;Zaragoza;Rebajas Enero;216;84,25;18198
+2025-02;JERSEY LANA MERINO;XXL;Tienda Física;Sevilla;Cyber Monday;717;47,48;34043,16
+2025-06;CAMISA BÁSICA ALGODÓN HOMBRE;L;Tienda Física;Valencia;Liquidación Temporada;58;34,69;2012,02
+2025-03;CHAQUETA DENIM;L;WhatsApp Business;Málaga;Día de la Madre;308;29,69;9144,52
+2025-05;POLO MANGA LARGA;XL;Tienda Online;Madrid;Colección Otoño;728;35,49;25836,72
+2025-05;BLAZER MUJER;M;Pop-up Store;Barcelona;Día de la Madre;115;35,17;4044,55
+2025-03;CHAQUETA DENIM;M;Pop-up Store;Bilbao;Black Friday;203;43,48;8826,44
+2025-01;POLO MANGA LARGA;XXL;Marketplace;Valencia;Weekend Special;76;26,7;2029,2
+2025-03;ABRIGO INVIERNO;L;WhatsApp Business;Madrid;Liquidación Temporada;775;264,85;205258,75
+2025-03;JERSEY LANA MERINO;XXL;Outlet;Murcia;Lanzamiento Colección;417;44,53;18569,01
+2025-06;CAMISA LINO VERANO;S;Marketplace;Barcelona;Día de la Madre;181;50,4;9122,4
+2025-05;VESTIDO FORMAL MUJER;XXL;Marketplace;Barcelona;Black Friday;413;54,23;22396,99
+2025-04;FALDA MIDI;M;Marketplace;Palma de Mallorca;Cyber Monday;524;56,12;29406,88
+2025-06;PANTALÓN VAQUERO CLÁSICO;L;Tienda Física;Las Palmas;San Valentín;747;53,73;40136,31
+2025-01;VESTIDO CASUAL MUJER;S;Tienda Física;Málaga;Navidad;633;122,27;77396,91
+2025-02;FALDA MIDI;XXL;Tienda Física;Barcelona;Día de la Madre;390;48,22;18805,8
+2025-06;CAMISA FORMAL MUJER;XS;WhatsApp Business;Bilbao;Black Friday;222;44,77;9938,94
+2025-01;VESTIDO CASUAL MUJER;XL;WhatsApp Business;Zaragoza;Navidad;489;114,49;55985,61
+2025-01;CAMISA LINO VERANO;S;Pop-up Store;Málaga;Rebajas Enero;379;55,62;21079,98
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;XXL;Pop-up Store;Sevilla;Black Friday;760;57,82;43943,2
+2025-01;POLO MANGA LARGA;XL;Outlet;Bilbao;Primavera-Verano;116;20,76;2408,16
+2025-03;CAZADORA CUERO;XXL;Outlet;Palma de Mallorca;Colección Otoño;395;113,35;44773,25
+2025-02;FALDA MIDI;L;Marketplace;Sevilla;Primavera-Verano;463;18,28;8463,64
+2025-02;SUDADERA CON CAPUCHA;XXL;Tienda Online;Palma de Mallorca;Colección Otoño;223;37,55;8373,65
+2025-01;POLO MANGA LARGA;XXL;Marketplace;Las Palmas;Liquidación Temporada;99;22,98;2275,02
+2025-01;CAMISA BÁSICA ALGODÓN HOMBRE;XS;Pop-up Store;Barcelona;Navidad;504;40,59;20457,36
+2025-04;VESTIDO CASUAL MUJER;S;Pop-up Store;Madrid;Cyber Monday;480;95,95;46056
+2025-03;VESTIDO CASUAL MUJER;L;Tienda Online;Las Palmas;Weekend Special;682;47,51;32401,82
+2025-01;SHORTS VERANO;S;Outlet;Sevilla;Cyber Monday;585;46,11;26974,35
+2025-04;BLAZER MUJER;S;Tienda Online;Las Palmas;Día de la Madre;262;54,3;14226,6
+2025-02;CAMISA BÁSICA ALGODÓN HOMBRE;XS;Pop-up Store;Barcelona;San Valentín;637;48,13;30658,81
+2025-01;LEGGINGS DEPORTIVOS;XS;Pop-up Store;Barcelona;Cyber Monday;709;34,64;24559,76
+2025-03;CHAQUETA DENIM;L;Tienda Online;Barcelona;Primavera-Verano;90;61,74;5556,6
+2025-06;FALDA MIDI;L;Pop-up Store;Barcelona;San Valentín;96;19;1824
+2025-06;VESTIDO FORMAL MUJER;M;Marketplace;Murcia;Liquidación Temporada;324;94,76;30702,24
+2025-03;VESTIDO FORMAL MUJER;XS;WhatsApp Business;Zaragoza;Día de la Madre;328;110,92;36381,76
+2025-04;ABRIGO INVIERNO;XXL;Tienda Física;Barcelona;Primavera-Verano;762;223,09;169994,58
+2025-02;PANTALÓN CHINO HOMBRE;L;Outlet;Murcia;Liquidación Temporada;744;42,69;31761,36
+2025-03;CAMISA BÁSICA ALGODÓN HOMBRE;XXL;Pop-up Store;Valencia;Día de la Madre;549;28,99;15915,51
+2025-01;PANTALÓN VAQUERO CLÁSICO;M;Pop-up Store;Málaga;Rebajas Enero;771;83,17;64124,07
+2025-06;JERSEY LANA MERINO;XXL;Marketplace;Las Palmas;Colección Otoño;754;58,9;44410,6
+2025-06;JERSEY LANA MERINO;L;Marketplace;Zaragoza;Primavera-Verano;621;72,05;44743,05
+2025-01;VESTIDO FORMAL MUJER;XL;WhatsApp Business;Murcia;Primavera-Verano;126;96,52;12161,52
+2025-03;CHAQUETA DENIM;XS;Outlet;Sevilla;Colección Otoño;708;29,72;21041,76
+2025-01;CAZADORA CUERO;L;Outlet;Murcia;San Valentín;560;97,3;54488
